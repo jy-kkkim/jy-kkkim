@@ -3,4 +3,4 @@
 [![Blog Badge](https://img.shields.io/badge/Tistory-Blog-blue)](https://jy-tblog.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jy1129000@gmail.com)](mailto:jy1129000@gmail.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jinyoung&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jy-kkkim&count_private=true&show_icons=true&theme=tokyonight)
